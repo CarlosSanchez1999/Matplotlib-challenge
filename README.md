@@ -13,8 +13,14 @@ This project explores the use of **Matplotlib** to analyze the effectiveness of 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/Matplotlib-Challenge.git
-cd Matplotlib-Challenge
-pip install -r requirements.txt
+2.Navigate to the project directory:
+```bash
+   cd Matplotlib-Challenge
+3.Install the required dependencies:
+```bash
+   pip install -r requirements.txt
+4.Run the Jupyter Notebook or Python scripts to explore the analysis.
+
 ## Usage
 1. Open the Jupyter Notebook or Python scripts in your preferred IDE.
 2. Execute the cells to clean the data, identify duplicates, and visualize tumor volume trends.
