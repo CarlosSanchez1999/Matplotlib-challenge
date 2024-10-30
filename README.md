@@ -13,12 +13,15 @@ This project explores the use of **Matplotlib** to analyze the effectiveness of 
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/Matplotlib-Challenge.git
+   
 2.Navigate to the project directory:
 ```bash
-   cd Matplotlib-Challenge
+cd Matplotlib-Challenge
+
 3.Install the required dependencies:
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
+
 4.Run the Jupyter Notebook or Python scripts to explore the analysis.
 
 ## Usage
